@@ -24,4 +24,10 @@ Some of the following images may come from my paper.
         </td>
         <td>From <a href="https://arxiv.org/abs/2409.09918">Hardware-Accelerated Ray Tracing for Discrete and Continuous Collision Detection on GPUs</a></td>
     </tr>
+    <tr>
+        <td>
+            <img src="./Assets/point cloud with transparency.png", alt="Point cloud" width="200px">
+        </td>
+        <td>A point cloud with color based on an external vector.
+    </tr>
 </table>
